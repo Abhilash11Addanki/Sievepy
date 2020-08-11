@@ -5,14 +5,14 @@ with open("README.md", "r") as fh:
         
 
 setuptools.setup(
-    name="Sievepy",
-    version="0.0.1",
+    name="sievepy",
+    version="1.0.5",
     author="Abhilash",
     author_email="abhilash11addanki@gmail.com",
     description="A package which efficiently finds the prime numbers",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/BloreDataPlayers/AutogitPy",
+    url="https://github.com/Abhilash11Addanki/Sievepy",
     packages=setuptools.find_packages(),
     keywords="configuration core yaml ini json environment",
     license="MIT",
