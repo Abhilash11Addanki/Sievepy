@@ -1,6 +1,0 @@
-create setup.py,README.md,LICENCE.txt and __init__.py
-commands
-1)python setup.py sdist
-1)python -m pip install --user --upgrade setuptools wheel
-2)python -m pip install --user --upgrade twine
-3)python -m twine upload --repository-url  https://upload.pypi.org/legacy/ dist/*
